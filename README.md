@@ -2,21 +2,21 @@
 
 I'm a Python-focused developer building backend applications and growing through hands-on projects.
 
-## About me
+## About Me
 
 - 🐍 Focused on Python development
 - ⚙️ Interested in backend systems, APIs, and developer tooling
 - 📚 Continuously learning through practical experiments and deep-dive study
 
-## Featured projects
+## Featured Projects
 
 ### [fastapi-app](https://github.com/humen-tech/fastapi-app)
 A FastAPI-based backend project with database migrations, Celery task processing, and pytest-based testing.
 
 ### [python-deep-dive](https://github.com/humen-tech/python-deep-dive)
-Notes and learning resources collected while studying Python concepts, patterns, and best practices.
+A Python learning repository collecting notes, study material, and practical takeaways on Python concepts and design patterns.
 
-## Tech focus
+## Tech Focus
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -24,7 +24,7 @@ Notes and learning resources collected while studying Python concepts, patterns,
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Currently exploring
+## Currently Exploring
 
 - Building Python web APIs
 - Testing and automation workflows
